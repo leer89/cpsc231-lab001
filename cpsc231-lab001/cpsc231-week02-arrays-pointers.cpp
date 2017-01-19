@@ -27,7 +27,7 @@ int main()
 	cout << "element 1 - " << score[1] << endl;
 
 	temp = score[i];
-	score[i] = score[i + 1];
+	score[i] = score[i + 1]; // pointer changes
 	score[i + 1] = temp;
 
 	cout << "temp - " << temp << endl;
