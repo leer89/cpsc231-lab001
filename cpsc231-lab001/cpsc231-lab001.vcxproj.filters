@@ -29,7 +29,7 @@
     <ClCompile Include="stdafx.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="cpsc231-lab001.cpp">
+    <ClCompile Include="cpsc231-week02-arrays-pointers.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
